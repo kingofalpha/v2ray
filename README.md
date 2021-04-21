@@ -1,2 +1,2 @@
-Removed
-bash <(curl -s -L https://git.io/v2ray.sh)
+
+bash <(curl -s -L https://github.com/kingofalpha/v2ray/blob/master/install.sh)
